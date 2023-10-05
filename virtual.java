@@ -10,7 +10,7 @@ import java.util.Scanner;
 
  
 
-public class VirtualClassroomManager {
+public class VirtualClassroom {
 
     private static Map<String, List<String>> classrooms = new HashMap<>();
 
